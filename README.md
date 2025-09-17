@@ -64,11 +64,4 @@ _Garçom (freelancer)_ (Fev/2023 a Ago/2023)
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- [Meu perfil principal no GitHub](https://github.com/vinicius-goess)
-- [Outros projetos](https://github.com/vinicius-goess?tab=repositories)
-
----
-
 > Sinta-se à vontade para entrar em contato!
